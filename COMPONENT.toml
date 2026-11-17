@@ -3,7 +3,7 @@ name = "SigmaOS-buildah"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "buildah component"
+description = "GitHub description is a placeholder; component scope remains unclassified."
 upstream = []
 
 [contract]
