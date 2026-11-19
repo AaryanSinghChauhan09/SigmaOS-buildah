@@ -1,8 +1,15 @@
 [package]
-name = "sigmaos_buildah"
+name = "SigmaOS-buildah"
 version = "0.1.0"
 edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS sigmaos_buildah component"
 
 [lib]
 name = "sigmaos_buildah"
 path = "src/lib.rs"
+
+[dependencies]
+thiserror = "1"
+
+[dev-dependencies]
